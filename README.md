@@ -1,2 +1,2 @@
 # useful-functions
-The functions I found useful to have for some bioinformatics pipelines.
+These are some functions that I have found handy for bioinformatics pipelines🥱
